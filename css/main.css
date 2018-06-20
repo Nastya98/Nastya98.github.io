@@ -127,7 +127,7 @@ button:focus {
 	height: 57%;
 }
 .header-wrapper{
-	background: url('../img/header-img.jpg') bottom;
+	background: url('../img/IMG_9428.jpg') center;
 	height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -169,6 +169,9 @@ button:focus {
 	width: 13rem;
 	font-size: 1.4rem;
   color: #ecebeb;
+  background-color: #333333b8;
+  border-radius: 10px;
+
 }
 .header-content{
 	height: 100vh;
@@ -817,6 +820,9 @@ button:focus {
 }
 .works-container .works-parent .works-child-img-04{
   background-image: url('../img/work-04.png');
+}
+.works-container .works-parent .works-child-img-05{
+  background-image: url('../img/work-05.png');
 }
 .works-container .works-parent .works-child .works-child-img .works-link{
   position: absolute;
